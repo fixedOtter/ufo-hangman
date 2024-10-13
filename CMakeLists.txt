@@ -1,9 +1,9 @@
-cmake_minimum_required(3.17.0)
+cmake_minimum_required(VERSION 3.22)
 
 add_executable(
-  main.cpp
+  UFOHangman "source/main.cpp"
 )
 
 project(
-
+  ufoHangman
 )
